@@ -31,13 +31,13 @@ See the roadmap below for the current status._**
 
 ## Roadmap
 
-- [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Creating the schematics for the main PCB
-- [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Designing the main PCB
+- [ ] <code>[#########>_]&nbsp;&nbsp;90%</code> Creating the schematics for the main PCB
+- [ ] <code>[########>__]&nbsp;&nbsp;80%</code> Designing the main PCB
 - [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Creating the schematics for the magnetic switches
 - [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Designing the PCB for the magnetic switches
-- [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Designing the housing (CAD)
+- [ ] <code>[###>_______]&nbsp;&nbsp;30%</code> Designing the housing (CAD)
 - [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Programming the microcontroller
-- [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Programming the Android app
+- [ ] <code>[#>_________]&nbsp;&nbsp;10%</code> Programming the Android app
 
 ## Future ideas
 

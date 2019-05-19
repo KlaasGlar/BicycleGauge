@@ -5,13 +5,13 @@ ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
-ChannelDesignatorFormatString=$Component_$ChannelName
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
 SeparateFolders=0
-TemplateLocationPath=
+TemplateLocationPath=C:\Daten\Repositories\BicycleGauge\PCB\
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
 AllowPortNetNames=0
@@ -142,23 +142,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RWGJWBBC
 
 [Document7]
-DocumentPath=Simulation.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VGFLXUXF
-
-[Document8]
 DocumentPath=Battery Voltage Monitor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,47 +159,57 @@ GenerateClassCluster=0
 DocumentUniqueId=JBKFCEGB
 
 [ProjectVariant1]
-UniqueID=83FCBE44-542B-4D87-BDD3-4C1B3A5AB40C
+UniqueID=F8B46854-DD7F-4334-8C99-3495E4D4BFEF
 Description=Variant of Bicycle Gauge
-AllowFabrication=0
+AllowFabrication=1
 ParameterCount=0
-VariationCount=3
-Variation1=Designator=X1|UniqueId=\OFCIMSAW|Kind=1|AlternatePart= 
-Variation2=Designator=X3|UniqueId=\MCWFWYYE\CGWLSUIV|Kind=1|AlternatePart= 
-Variation3=Designator=C2|UniqueId=\IYKYSTOF|Kind=1|AlternatePart= 
+VariationCount=1
+Variation1=Designator=X3|UniqueId=\MCWFWYYE\CGWLSUIV|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=ApprovedBy
-Value=
-
-[Parameter2]
-Name=BoardFEPA
-Value=
-
-[Parameter3]
-Name=DrawnBy
-Value=Sven Möller
-
-[Parameter4]
-Name=FEPANumber
-Value=
-
-[Parameter5]
-Name=ProjectName
+Name=Title
 Value=Bicycle Gauge
 
-[Parameter6]
-Name=Revision
-Value=v1.0
-
-[Parameter7]
+[Parameter2]
 Name=ShortName
 Value=SM
 
-[Parameter8]
-Name=Title
+[Parameter3]
+Name=Revision
+Value=v1.0.1
+
+[Parameter4]
+Name=ProjectName
 Value=Bicycle Gauge
+
+[Parameter5]
+Name=Organization
+Value=Private
+
+[Parameter6]
+Name=DrawnBy
+Value=Sven Möller
+
+[Parameter7]
+Name=ApprovedBy
+Value=-
+
+[Parameter8]
+Name=Address4
+Value=-
+
+[Parameter9]
+Name=Address3
+Value=-
+
+[Parameter10]
+Name=Address2
+Value=-
+
+[Parameter11]
+Name=Address1
+Value=-
 
 [Configuration1]
 Name=Default Configuration

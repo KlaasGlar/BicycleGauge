@@ -168,48 +168,48 @@ Variation1=Designator=X3|UniqueId=\MCWFWYYE\CGWLSUIV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Title
-Value=Bicycle Gauge
+Name=Address1
+Value=-
 
 [Parameter2]
-Name=ShortName
-Value=SM
+Name=Address2
+Value=-
 
 [Parameter3]
-Name=Revision
-Value=v1.0.1
+Name=Address3
+Value=-
 
 [Parameter4]
-Name=ProjectName
-Value=Bicycle Gauge
+Name=Address4
+Value=-
 
 [Parameter5]
-Name=Organization
-Value=Private
+Name=ApprovedBy
+Value=-
 
 [Parameter6]
 Name=DrawnBy
 Value=Sven Möller
 
 [Parameter7]
-Name=ApprovedBy
-Value=-
+Name=Organization
+Value=Private
 
 [Parameter8]
-Name=Address4
-Value=-
+Name=ProjectName
+Value=Bicycle Gauge
 
 [Parameter9]
-Name=Address3
-Value=-
+Name=Revision
+Value=v1.0.1
 
 [Parameter10]
-Name=Address2
-Value=-
+Name=ShortName
+Value=SM
 
 [Parameter11]
-Name=Address1
-Value=-
+Name=Title
+Value=Bicycle Gauge
 
 [Configuration1]
 Name=Default Configuration

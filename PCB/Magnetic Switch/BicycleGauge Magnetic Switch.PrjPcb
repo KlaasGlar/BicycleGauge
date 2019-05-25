@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -124,121 +124,49 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Default Configuration\Outputs\BOM\BOM_Assembly-BicycleGauge Magnetic Switch.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Default Configuration\Outputs\BOM\BOM_Order-BicycleGauge Magnetic Switch.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Default Configuration\Outputs\NC Drill\Magnetic Switch-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\NC Drill\Magnetic Switch.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Default Configuration\Outputs\NC Drill\Magnetic Switch.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.Outline
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.REP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Default Configuration\Outputs\Gerber\Magnetic Switch.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Default Configuration\Outputs\ExportSTEP\Magnetic Switch.step
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Address4
-Value=-
-
-[Parameter2]
-Name=Address3
-Value=-
-
-[Parameter3]
-Name=Address2
-Value=-
-
-[Parameter4]
 Name=Address1
 Value=-
 
+[Parameter2]
+Name=Address2
+Value=-
+
+[Parameter3]
+Name=Address3
+Value=-
+
+[Parameter4]
+Name=Address4
+Value=-
+
 [Parameter5]
-Name=Organization
-Value=Private
+Name=ApprovedBy
+Value=-
 
 [Parameter6]
-Name=Title
-Value=Bicycle Gauge Magnetic Switch
-
-[Parameter7]
-Name=ShortName
-Value=SM
-
-[Parameter8]
-Name=Revision
-Value=v1.0
-
-[Parameter9]
-Name=ProjectName
-Value=Bicycle Gauge Magnetic Switch
-
-[Parameter10]
 Name=DrawnBy
 Value=Sven Möller
 
+[Parameter7]
+Name=Organization
+Value=Private
+
+[Parameter8]
+Name=ProjectName
+Value=Bicycle Gauge Magnetic Switch
+
+[Parameter9]
+Name=Revision
+Value=v1.0
+
+[Parameter10]
+Name=ShortName
+Value=SM
+
 [Parameter11]
-Name=ApprovedBy
-Value=-
+Name=Title
+Value=Bicycle Gauge Magnetic Switch
 
 [Configuration1]
 Name=Default Configuration
@@ -253,7 +181,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=BicycleGauge Magnetic Switch.OutJob
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs

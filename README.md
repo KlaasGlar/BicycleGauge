@@ -19,8 +19,8 @@ The following features are going to be integrated in the prototype:
 ## Content of this repository
 
 The repository contains the following things:
-- Schematic ~~and PCB data~~ for the main PCB
-- Schematic ~~and PCB data~~ for the magnetic switches
+- Schematic and PCB data for the main PCB
+- Schematic and PCB data for the magnetic switches
 - ~~CAD data for the housing of the main PCB~~
 - ~~Code for programming the microcontroller~~
 - ~~Code for the Android App to connect to the computer~~
@@ -32,9 +32,9 @@ See the roadmap below for the current status._**
 ## Roadmap
 
 - [X] <code>[##########>]&nbsp;100%</code> Creating the schematics for the main PCB
-- [ ] <code>[#########>_]&nbsp;&nbsp;90%</code> Designing the main PCB
+- [X] <code>[##########>]&nbsp;&nbsp;90%</code> Designing the main PCB
 - [X] <code>[##########>]&nbsp;100%</code> Creating the schematics for the magnetic switches
-- [ ] <code>[#####>_____]&nbsp;&nbsp;50%</code> Designing the PCB for the magnetic switches
+- [X] <code>[##########>]&nbsp;&nbsp;50%</code> Designing the PCB for the magnetic switches
 - [ ] <code>[###>_______]&nbsp;&nbsp;30%</code> Designing the housing (CAD)
 - [ ] <code>[>__________]&nbsp;&nbsp;&nbsp;0%</code> Programming the microcontroller
 - [ ] <code>[#>_________]&nbsp;&nbsp;10%</code> Programming the Android app
